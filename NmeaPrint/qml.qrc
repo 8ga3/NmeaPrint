@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>nmea.js</file>
+        <file>componets/SatellitesMap.qml</file>
+        <file>componets/ViewBasicParam.qml</file>
+        <file>componets/SignalStrength.qml</file>
+        <file>NmeaPrint.icns</file>
+        <file>resources/scale.png</file>
+        <file>resources/scale_end.png</file>
+        <file>componets/GnssMap.qml</file>
+    </qresource>
+</RCC>
