@@ -44,7 +44,6 @@
   */
 import QtQuick 2.0
 import QtQuick.Shapes 1.0
-import QtTest 1.13
 
 Rectangle {
     id: root
