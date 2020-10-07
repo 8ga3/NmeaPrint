@@ -5,6 +5,9 @@ NMEA Viewer for GNSS module
 USBでつないだGNSSが出力する情報を眺めるツールです。
 ログを取ったりする機能はありません。
 
+## Screenshot
+![Screenshot 1](img/img1.png)
+
 ## ビルド環境
 * Qt 5.12.9
 * Qt 5.15.1
