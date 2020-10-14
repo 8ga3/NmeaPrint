@@ -17,6 +17,7 @@ USBでつないだGNSSが出力する情報を眺めるツールです。
 * WinとLinuxはそのうち対応
 
 ## 動作デバイス
+![GNSS Device](img/img2.jpg)
 * uBlox M8030-KT
 * NMEA 0183 Ver.4.XX に対応していれば多分動きます。
 
